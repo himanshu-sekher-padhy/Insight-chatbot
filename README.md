@@ -320,5 +320,4 @@ For support and questions:
 - Create an issue in this repository
 
 ---
-
 Built with ❤️ using GetStream.io, OpenAI, and modern web technologies.
